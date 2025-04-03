@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nikhilvinay/Documents/my_projects/end2end-ml-mlflow-wine-quality-prediction/mlruns/0/e0679c487e5d40ac9ef0000237c2d87b/artifacts
+end_time: 1743546150608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0679c487e5d40ac9ef0000237c2d87b
+run_name: handsome-midge-837
+run_uuid: e0679c487e5d40ac9ef0000237c2d87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743546148506
+status: 3
+tags: []
+user_id: nikhilvinay
